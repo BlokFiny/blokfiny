@@ -1,4 +1,4 @@
-![](BG.png "blokfiny.com")
+[![](BG.png "Founder - m0ham3d.com")](https://www.m0ham3d.com/)
 
 
 <!---
